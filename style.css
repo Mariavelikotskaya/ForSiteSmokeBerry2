@@ -1,0 +1,48 @@
+.delivery_header {
+    font-family: 'IBM Plex Serif';
+    font-style: italic;
+    text-align: center;
+} 
+.delivery_courier {
+    display: inline-flex;
+    background-color: #d1e3f8;
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    border-radius: 30px;
+    padding: 7px;
+    margin-top: 30px;
+   
+}
+
+.delivery_pickup {
+    display: inline-flex;
+    height: 400px;
+    text-align: center;
+    background-color: #d1e3f8;
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    margin: 1%;
+    padding: 10px;
+    border-radius: 30px;
+
+}
+.delivery_pickup>p {
+    display: flex;
+    align-items: center;
+
+}
+
+.delivery_shipping {
+    display: inline-flex;
+    background-color: #d1e3f8;
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    border-radius: 30px;
+
+}
+
+.delivery {
+    text-align: center;
+    font-size: 32px;   
+ 
+}
